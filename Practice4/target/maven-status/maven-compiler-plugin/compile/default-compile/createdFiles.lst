@@ -1,0 +1,13 @@
+com\example\Practice4\utils\GsonRedisSerializer.class
+com\example\Practice4\Config\KafkaProducerConfig.class
+com\example\Practice4\Config\KafkaConsumerConfig.class
+com\example\Practice4\enumf\MessageType.class
+com\example\Practice4\Config\KafkaTopicConfig.class
+com\example\Practice4\Model\ChatMessage.class
+com\example\Practice4\Practice4Application.class
+com\example\Practice4\Config\KafkaListeners.class
+com\example\Practice4\Config\RedisConfig.class
+com\example\Practice4\Config\WebSocketConfig.class
+com\example\Practice4\Config\KafkaDynamicTopic.class
+com\example\Practice4\Model\Chat.class
+com\example\Practice4\Controller\WebController.class
